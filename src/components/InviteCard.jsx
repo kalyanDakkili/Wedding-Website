@@ -19,8 +19,8 @@ export default function InviteCard() {
           </div>
           <div className="invite-box">
             <span className="invite-box-label">Where</span>
-            <span className="invite-box-value">Sri Krishna Reddy Bhavan</span>
-            <span className="invite-box-sub">Bhairogipalem, Tirupati</span>
+            <span className="invite-box-value">sri Gandhamaneni Sivaiah Krishna Reddy Bhavan</span>
+            <span className="invite-box-sub">Bairagi patteda, Tirupati</span>
           </div>
         </div>
 

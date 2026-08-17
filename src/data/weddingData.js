@@ -25,7 +25,7 @@ export const groom = {
 
 export const venue = {
   name: "Sri Gandhamaneni Sivayya Krishna Reddy Bhavan",
-  address: "Near C.P.B. Office Prakkana, Bhairogipalem, Tirupati, Andhra Pradesh",
+  address: "Near C.P.B. Office Prakkana, Bairagi patteda, Tirupati, Andhra Pradesh",
   mapsQuery:
     "Sri+Gandhamaneni+Sivayya+Krishna+Reddy+Bhavan+Bhairogipalem+Tirupati",
   mapsEmbed:

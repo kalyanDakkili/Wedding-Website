@@ -1,4 +1,4 @@
-# Charishma & Vinay Kumar — Wedding Website (React)
+# Charishma & Vinay Kumar — Wedding Website using React
 
 A React + Vite wedding invitation site built around your Telugu wedding card
 (Samuhartham, 28 August 2026, Tirupati) and the reference designs you shared.
